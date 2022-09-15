@@ -39,7 +39,14 @@ give another try.
 <p>To run the project go after fetching find the shell.sh
 and either double click or run in on the cmd
 <b><i><u>./shell.sh</u></i></b>
+
 </p>
+
+<p>For linux based system run
+<b><i><u>python3 main.py</u></i></b>
+
+</p>
+
 
 <p>
 And on the shell it presumes you have python installed on
