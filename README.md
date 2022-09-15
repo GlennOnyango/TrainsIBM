@@ -11,4 +11,7 @@ The user should be aware of the routes but even if you
 don't the user worry you can try as many times as you want.
 
 You will be asked after every try to afrim if you wish to
-give another try. 
+give another try.
+
+And on the shell it presumes you have python installed on
+your system.
