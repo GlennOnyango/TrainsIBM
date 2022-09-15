@@ -23,7 +23,7 @@ I worked under the assumption of a limited defined route
 to each other starting from the left most node.
 </p>
 <p>
-This design focuses on a liner time complexity capable 
+This design focuses on a linear time complexity capable 
 of a liner growth rate. Therefore, no matter how big a route or
 graph is theoretically it should scale the same way.
 </p>
