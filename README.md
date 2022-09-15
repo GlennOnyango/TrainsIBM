@@ -37,7 +37,9 @@ give another try.
 <h2><u>How to run project.</u></h2>
 
 <p>To run the project go after fetching find the shell.sh
-and either double click or run in on the cmd</p>
+and either double click or run in on the cmd
+<b><i><u>./shell.sh</u></i></b>
+</p>
 
 <p>
 And on the shell it presumes you have python installed on
