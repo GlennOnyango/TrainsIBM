@@ -18,7 +18,7 @@ I worked under the assumption of a limited defined route
     <li>AE - weight - 7</li>
 </ol>
 
-<h5><u>How it works.</u></h5>
+<h2><u>How it works.</u></h2>
 <p>It works by separating routes into the two nodes adjacent 
 to each other starting from the left most node.
 </p>
